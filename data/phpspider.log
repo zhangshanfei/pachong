@@ -1,0 +1,1224 @@
+[36m2018-04-23 21:58:33 [debug] Find scan page: http://www.macklin.cn/products[0m
+[36m2018-04-23 21:58:33 [debug] Find content page: http://www.macklin.cn/products/M812869[0m
+[36m2018-04-23 21:58:33 [debug] Find content page: http://www.macklin.cn/products/A823020[0m
+2018-04-23 21:58:33 [info] Find pages: 3 
+2018-04-23 21:58:33 [info] Waiting for collect pages: 3 
+2018-04-23 21:58:33 [info] Collected pages: 0 
+[36m2018-04-23 21:58:33 [debug] Success download page http://www.macklin.cn/products in 0.473 s[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/503[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/504[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/505[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/633[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/634[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/635[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/636[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/637[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/638[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/639[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/642[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/641[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/644[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/640[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/205[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/759[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/206[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/207[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/208[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/209[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/210[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/622[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/610[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/211[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/214[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/540[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/508[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/518[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/526[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/621[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/624[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/625[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/626[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/675[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/627[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/628[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/283[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/288[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/738[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/291[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/560[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/292[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/293[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/294[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/298[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/299[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/300[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/301[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/303[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/304[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/305[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/306[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/307[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/308[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/493[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/494[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/613[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/727[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/725[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/309[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/531[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/538[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/539[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/542[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/546[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/344[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/346[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/347[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/351[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/352[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/516[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/521[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/612[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/354[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/614[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/620[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/355[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/356[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/357[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/358[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/359[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/360[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/361[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/362[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/363[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/364[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/365[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/608[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/406[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/561[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/515[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/407[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/410[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/411[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/417[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/418[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/419[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/420[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/676[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/685[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/686[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/687[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/693[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/513[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/514[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/632[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/695[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/696[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/74[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/75[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/568[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/421[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/99[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/617[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/569[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/487[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/490[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/491[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/495[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/618[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/496[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/497[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/500[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/559[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/501[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/502[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/102[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/103[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/104[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/105[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/106[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/107[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/108[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/109[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/110[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/111[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/112[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/113[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/114[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/115[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/116[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/117[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/118[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/715[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/119[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/120[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/121[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/122[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/123[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/124[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/125[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/126[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/127[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/128[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/129[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/130[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/131[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/132[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/133[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/134[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/135[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/136[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/137[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/138[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/139[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/140[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/141[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/142[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/143[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/144[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/145[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/146[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/147[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/148[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/757[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/150[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/151[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/152[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/153[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/154[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/743[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/742[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/744[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/155[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/157[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/158[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/159[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/162[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/163[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/164[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/165[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/166[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/169[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/567[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/170[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/171[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/172[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/173[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/175[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/176[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/177[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/178[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/179[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/180[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/181[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/709[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/556[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/511[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/512[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/748[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/182[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/183[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/184[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/185[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/186[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/187[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/188[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/189[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/510[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/190[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/191[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/192[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/193[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/194[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/196[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/197[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/198[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/199[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/200[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/201[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/740[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/741[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/202[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/203[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/677[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/678[0m
+[36m2018-04-23 21:58:33 [debug] Find list page: http://www.macklin.cn/category/669[0m
+[36m2018-04-23 21:58:33 [debug] Success process page http://www.macklin.cn/products in 0.512 s[0m
+2018-04-23 21:58:33 [info] Spider running in 0d 0h 0m 0s
+2018-04-23 21:58:33 [info] Find pages: 240 
+2018-04-23 21:58:33 [info] Waiting for collect pages: 239 
+2018-04-23 21:58:33 [info] Collected pages: 1 
+[36m2018-04-23 21:58:34 [debug] Success download page http://www.macklin.cn/products/M812869 in 0.527 s[0m
+[36m2018-04-23 21:58:34 [debug] Find list page: http://www.macklin.cn/category/204[0m
+[36m2018-04-23 21:58:34 [debug] Find content page: http://www.macklin.cn/products/A800841[0m
+[36m2018-04-23 21:58:34 [debug] Find content page: http://www.macklin.cn/products/B801831[0m
+[36m2018-04-23 21:58:34 [debug] Find content page: http://www.macklin.cn/products/B801884[0m
+[36m2018-04-23 21:58:34 [debug] Find content page: http://www.macklin.cn/products/B801885[0m
+[36m2018-04-23 21:58:34 [debug] Find content page: http://www.macklin.cn/products/B801912[0m
+2018-04-23 21:58:34 [info] Result[1]: {"商品名称":"M812869 1-(4-叔丁基苯基)-3-(4-甲氧基苯基)-1,3-丙二酮, &gt;98.0%(T)","商品别称":"1-(4-叔丁基苯基)-3-(4-甲氧基苯基)-1,3-丙二酮\n丁基甲氧基二苄酰化甲烷\n4-叔丁基-4'-甲氧基二苯酰甲烷\n巴松 1789\n防晒剂BMDM(UV-A)\n阿伏苯宗 ","CAS号码":"70356-09-1","分子式":"C<sub>20<\/sub>H<sub>22<\/sub>O<sub>3<\/sub> ","商品热点":" 1-(4-Methoxyphenyl)-3-(4-<i>tert<\/i>-butylphenyl)-1,3-propanedione","规格值":"&gt;98.0%(T) | &gt;98.0%(T)","商品价格":"87.00 | 210.00","市场价":"87.00 | 210.00","商品库存":"现货 | 现货","商品货号":" M812869-25g |  M812869-100g","商品描述":"&#13;\n              <table class=\"productOverViewInfo\" cellspacing=\"5\" cellpadding=\"0\" width=\"99%\"><tr style=\"BACKGROUND-COLOR: #fff\"><th width=\"100\">熔点:<\/th>&#13;\n                    <td>81-84 °C<\/td>&#13;\n                <\/tr><tr style=\"BACKGROUND-COLOR: #fff\" id=\"itmdet-baseCnt-formula\"><th width=\"100\">密度:<\/th>&#13;\n                    <td>1.079<\/td>&#13;\n                <\/tr><tr style=\"BACKGROUND-COLOR: #fff\"><th width=\"100\">储存条件:<\/th>&#13;\n                    <td>室温,密封<\/td>&#13;\n                <\/tr><\/table>"}
+[36m2018-04-23 21:58:34 [debug] Success process page http://www.macklin.cn/products/M812869 in 0.568 s[0m
+2018-04-23 21:58:34 [info] Spider running in 0d 0h 0m 1s
+2018-04-23 21:58:34 [info] Find pages: 246 
+2018-04-23 21:58:34 [info] Waiting for collect pages: 244 
+2018-04-23 21:58:34 [info] Collected pages: 2 
+[36m2018-04-23 21:58:35 [debug] Success download page http://www.macklin.cn/products/A823020 in 0.679 s[0m
+2018-04-23 21:58:35 [info] Result[2]: {"商品名称":"A823020 苊烯, 99%","商品别称":"苊烯 ;萘并乙烯,萘嵌戊烯, 1,8-亚乙基萘 ","CAS号码":"208-96-8","分子式":"C<sub>12<\/sub>H<sub>8<\/sub> ","商品热点":" Acenaphthylene","规格值":"99% | 99%","商品价格":"528.00 | 1,262.00","市场价":"528.00 | 1,262.00","商品库存":"预计交期：5~7个工作日 | 现货","商品货号":" A823020-5g |  A823020-25g","商品描述":"&#13;\n              <table class=\"productOverViewInfo\" cellspacing=\"5\" cellpadding=\"0\" width=\"99%\"><tr style=\"BACKGROUND-COLOR: #fff\"><th width=\"100\">熔点:<\/th>&#13;\n                    <td>78-82 °C(lit.)<\/td>&#13;\n                <\/tr><tr style=\"BACKGROUND-COLOR: #fff\"><th width=\"100\">沸点:<\/th>&#13;\n                    <td>280 °C(lit.)<\/td>&#13;\n                <\/tr><tr style=\"BACKGROUND-COLOR: #fff\" id=\"itmdet-baseCnt-formula\"><th width=\"100\">密度:<\/th>&#13;\n                    <td>0.899 g\/mL at 25 °C(lit.)<\/td>&#13;\n                <\/tr><tr style=\"BACKGROUND-COLOR: #fff\"><th width=\"100\">闪点:<\/th>&#13;\n                    <td>122°C<\/td>&#13;\n                <\/tr><tr style=\"BACKGROUND-COLOR: #fff\"><th width=\"100\">储存条件:<\/th>&#13;\n                    <td>室温<\/td>&#13;\n                <\/tr><\/table>"}
+[36m2018-04-23 21:58:35 [debug] Success process page http://www.macklin.cn/products/A823020 in 0.725 s[0m
+2018-04-23 21:58:35 [info] Spider running in 0d 0h 0m 2s
+2018-04-23 21:58:35 [info] Find pages: 246 
+2018-04-23 21:58:35 [info] Waiting for collect pages: 243 
+2018-04-23 21:58:35 [info] Collected pages: 3 
+[36m2018-04-23 21:58:35 [debug] Success download page http://www.macklin.cn/category/503 in 0.443 s[0m
+[36m2018-04-23 21:58:35 [debug] Find list page: http://www.macklin.cn/category/503/2[0m
+[36m2018-04-23 21:58:35 [debug] Find list page: http://www.macklin.cn/category/503/3[0m
+[36m2018-04-23 21:58:35 [debug] Find list page: http://www.macklin.cn/category/503/11[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/T818796[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/T819489[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/T819490[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/P815381[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/D807480[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/P815792[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/B806387[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/H822807[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/C823807[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/A801411[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/D807103[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/D823809[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/C835755[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/C823012[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/R828525[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/R828520[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/B833340[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/F824224[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/P823813[0m
+[36m2018-04-23 21:58:35 [debug] Find content page: http://www.macklin.cn/products/R835622[0m
+[36m2018-04-23 21:58:35 [debug] Success process page http://www.macklin.cn/category/503 in 0.477 s[0m
+2018-04-23 21:58:35 [info] Spider running in 0d 0h 0m 2s
+2018-04-23 21:58:35 [info] Find pages: 269 
+2018-04-23 21:58:35 [info] Waiting for collect pages: 265 
+2018-04-23 21:58:35 [info] Collected pages: 4 
+[36m2018-04-23 21:58:36 [debug] Success download page http://www.macklin.cn/category/504 in 0.785 s[0m
+[36m2018-04-23 21:58:36 [debug] Find list page: http://www.macklin.cn/category/504/2[0m
+[36m2018-04-23 21:58:36 [debug] Find list page: http://www.macklin.cn/category/504/3[0m
+[36m2018-04-23 21:58:36 [debug] Find list page: http://www.macklin.cn/category/504/8[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/R832051[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/S823379[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/C805769[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/H823812[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/P823803[0m
+[36m2018-04-23 21:58:36 [debug] Success process page http://www.macklin.cn/category/504 in 0.813 s[0m
+2018-04-23 21:58:36 [info] Spider running in 0d 0h 0m 3s
+2018-04-23 21:58:36 [info] Find pages: 277 
+2018-04-23 21:58:36 [info] Waiting for collect pages: 272 
+2018-04-23 21:58:36 [info] Collected pages: 5 
+[36m2018-04-23 21:58:36 [debug] Success download page http://www.macklin.cn/category/505 in 0.372 s[0m
+[36m2018-04-23 21:58:36 [debug] Find list page: http://www.macklin.cn/category/505/2[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B802596[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/E809320[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B802775[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B802653[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B822523[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B802553[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/O815161[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/H811524[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/S817662[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/S817663[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/H810935[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/E809048[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B802299[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/T818763[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/T828230[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/B802298[0m
+[36m2018-04-23 21:58:36 [debug] Find content page: http://www.macklin.cn/products/D807489[0m
+[36m2018-04-23 21:58:36 [debug] Success process page http://www.macklin.cn/category/505 in 0.407 s[0m
+2018-04-23 21:58:36 [info] Spider running in 0d 0h 0m 3s
+2018-04-23 21:58:36 [info] Find pages: 295 
+2018-04-23 21:58:36 [info] Waiting for collect pages: 289 
+2018-04-23 21:58:36 [info] Collected pages: 6 
+[36m2018-04-23 21:58:37 [debug] Success download page http://www.macklin.cn/category/633 in 0.77 s[0m
+[36m2018-04-23 21:58:37 [debug] Find list page: http://www.macklin.cn/category/633/2[0m
+[36m2018-04-23 21:58:37 [debug] Find list page: http://www.macklin.cn/category/633/3[0m
+[36m2018-04-23 21:58:37 [debug] Find list page: http://www.macklin.cn/category/633/50[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/P815712[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/T818958[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/B807242[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/T818818[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/A800842[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D807586[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/T828404[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/R801280[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D853276[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/S818426[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/S813769[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D853467[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D853526[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D823683[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D823681[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D823682[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D853050[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D853448[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/R803598[0m
+[36m2018-04-23 21:58:37 [debug] Find content page: http://www.macklin.cn/products/D853203[0m
+[36m2018-04-23 21:58:37 [debug] Success process page http://www.macklin.cn/category/633 in 0.809 s[0m
+2018-04-23 21:58:37 [info] Spider running in 0d 0h 0m 4s
+2018-04-23 21:58:37 [info] Find pages: 318 
+2018-04-23 21:58:37 [info] Waiting for collect pages: 311 
+2018-04-23 21:58:37 [info] Collected pages: 7 
+[36m2018-04-23 21:58:38 [debug] Success download page http://www.macklin.cn/category/634 in 0.502 s[0m
+[36m2018-04-23 21:58:38 [debug] Find list page: http://www.macklin.cn/category/634/2[0m
+[36m2018-04-23 21:58:38 [debug] Find list page: http://www.macklin.cn/category/634/3[0m
+[36m2018-04-23 21:58:38 [debug] Find list page: http://www.macklin.cn/category/634/8[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S803601[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R817328[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/B822229[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R803604[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S803605[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S803602[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/O815299[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/O815300[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R822263[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R822226[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S822232[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S822262[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S822224[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/S818240[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/D853033[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R802402[0m
+[36m2018-04-23 21:58:38 [debug] Success process page http://www.macklin.cn/category/634 in 0.535 s[0m
+2018-04-23 21:58:38 [info] Spider running in 0d 0h 0m 5s
+2018-04-23 21:58:38 [info] Find pages: 337 
+2018-04-23 21:58:38 [info] Waiting for collect pages: 329 
+2018-04-23 21:58:38 [info] Collected pages: 8 
+[36m2018-04-23 21:58:38 [debug] Success download page http://www.macklin.cn/category/635 in 0.448 s[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R823293[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/R828470[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/N823696[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/N823693[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/N823692[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/N823698[0m
+[36m2018-04-23 21:58:38 [debug] Find content page: http://www.macklin.cn/products/N823694[0m
+[36m2018-04-23 21:58:38 [debug] Success process page http://www.macklin.cn/category/635 in 0.475 s[0m
+2018-04-23 21:58:38 [info] Spider running in 0d 0h 0m 5s
+2018-04-23 21:58:38 [info] Find pages: 344 
+2018-04-23 21:58:38 [info] Waiting for collect pages: 335 
+2018-04-23 21:58:38 [info] Collected pages: 9 
+[36m2018-04-23 21:58:39 [debug] Success download page http://www.macklin.cn/category/636 in 0.535 s[0m
+[36m2018-04-23 21:58:39 [debug] Find list page: http://www.macklin.cn/category/636/2[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D853040[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/M848913[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/F844432[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/P823776[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823769[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823770[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B803097[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B803094[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B803091[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823768[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823771[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823772[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823773[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B823767[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B823766[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D823774[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D833646[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D853038[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D853036[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D853044[0m
+[36m2018-04-23 21:58:39 [debug] Success process page http://www.macklin.cn/category/636 in 0.567 s[0m
+2018-04-23 21:58:39 [info] Spider running in 0d 0h 0m 6s
+2018-04-23 21:58:39 [info] Find pages: 365 
+2018-04-23 21:58:39 [info] Waiting for collect pages: 355 
+2018-04-23 21:58:39 [info] Collected pages: 10 
+[36m2018-04-23 21:58:39 [debug] Success download page http://www.macklin.cn/category/637 in 0.221 s[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D853047[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/P823779[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/T823781[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/C823702[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/C823704[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/C805083[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/H823706[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/N823778[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/E823700[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/L811733[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D807944[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/P823780[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/H811290[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B823701[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/A829449[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/I811740[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/B802671[0m
+[36m2018-04-23 21:58:39 [debug] Success process page http://www.macklin.cn/category/637 in 0.248 s[0m
+2018-04-23 21:58:39 [info] Spider running in 0d 0h 0m 6s
+2018-04-23 21:58:39 [info] Find pages: 382 
+2018-04-23 21:58:39 [info] Waiting for collect pages: 371 
+2018-04-23 21:58:39 [info] Collected pages: 11 
+[36m2018-04-23 21:58:39 [debug] Success download page http://www.macklin.cn/category/638 in 0.217 s[0m
+[36m2018-04-23 21:58:39 [debug] Find list page: http://www.macklin.cn/category/638/2[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/T818953[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D808211[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/M814236[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D808231[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/D808232[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/A823759[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/A800102[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/T818948[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/H810827[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/E823761[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/C823760[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/M823762[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/P823764[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/F809564[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/T820112[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/T823765[0m
+[36m2018-04-23 21:58:39 [debug] Find content page: http://www.macklin.cn/products/M814237[0m
+[36m2018-04-23 21:58:39 [debug] Success process page http://www.macklin.cn/category/638 in 0.231 s[0m
+2018-04-23 21:58:39 [info] Spider running in 0d 0h 0m 6s
+2018-04-23 21:58:39 [info] Find pages: 400 
+2018-04-23 21:58:39 [info] Waiting for collect pages: 388 
+2018-04-23 21:58:39 [info] Collected pages: 12 
+[36m2018-04-23 21:58:40 [debug] Success download page http://www.macklin.cn/category/639 in 0.231 s[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/639/2[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/639/3[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/639/30[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853581[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853522[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S818249[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S818250[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/R817336[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/R808183[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S808184[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853454[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853563[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853450[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853564[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853136[0m
+[36m2018-04-23 21:58:40 [debug] Success process page http://www.macklin.cn/category/639 in 0.261 s[0m
+2018-04-23 21:58:40 [info] Spider running in 0d 0h 0m 7s
+2018-04-23 21:58:40 [info] Find pages: 415 
+2018-04-23 21:58:40 [info] Waiting for collect pages: 402 
+2018-04-23 21:58:40 [info] Collected pages: 13 
+[36m2018-04-23 21:58:40 [debug] Success download page http://www.macklin.cn/category/642 in 0.27 s[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/642/2[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S816964[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/R812116[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/I812552[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/I812554[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S808189[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D836863[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D836336[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/M823718[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/O823719[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D808190[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/H811507[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/H811508[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/N823721[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S823723[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/P833737[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/T820223[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/T820224[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/T819859[0m
+[36m2018-04-23 21:58:40 [debug] Success process page http://www.macklin.cn/category/642 in 0.31 s[0m
+2018-04-23 21:58:40 [info] Spider running in 0d 0h 0m 7s
+2018-04-23 21:58:40 [info] Find pages: 434 
+2018-04-23 21:58:40 [info] Waiting for collect pages: 420 
+2018-04-23 21:58:40 [info] Collected pages: 14 
+[36m2018-04-23 21:58:40 [debug] Success download page http://www.macklin.cn/category/641 in 0.288 s[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/641/2[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/641/3[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/641/4[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S823732[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/S818253[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853615[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853645[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853613[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853634[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853622[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853673[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853638[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/L812437[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853626[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/L812438[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/L812487[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853636[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853644[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B803943[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B803098[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B803099[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/H823735[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/D853639[0m
+[36m2018-04-23 21:58:40 [debug] Success process page http://www.macklin.cn/category/641 in 0.327 s[0m
+2018-04-23 21:58:40 [info] Spider running in 0d 0h 0m 7s
+2018-04-23 21:58:40 [info] Find pages: 457 
+2018-04-23 21:58:40 [info] Waiting for collect pages: 442 
+2018-04-23 21:58:40 [info] Collected pages: 15 
+[36m2018-04-23 21:58:40 [debug] Success download page http://www.macklin.cn/category/644 in 0.216 s[0m
+[36m2018-04-23 21:58:40 [debug] Find list page: http://www.macklin.cn/category/644/2[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B823705[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B823687[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B823690[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B823686[0m
+[36m2018-04-23 21:58:40 [debug] Find content page: http://www.macklin.cn/products/B823703[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B823699[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B802324[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D823713[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803946[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B823697[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B802493[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B804021[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/T818516[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/T823715[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B823695[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803418[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803945[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808036[0m
+[36m2018-04-23 21:58:41 [debug] Success process page http://www.macklin.cn/category/644 in 0.242 s[0m
+2018-04-23 21:58:41 [info] Spider running in 0d 0h 0m 8s
+2018-04-23 21:58:41 [info] Find pages: 476 
+2018-04-23 21:58:41 [info] Waiting for collect pages: 460 
+2018-04-23 21:58:41 [info] Collected pages: 16 
+[36m2018-04-23 21:58:41 [debug] Success download page http://www.macklin.cn/category/640 in 0.31 s[0m
+[36m2018-04-23 21:58:41 [debug] Find list page: http://www.macklin.cn/category/640/2[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/P815977[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808432[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D823742[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/C805856[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/M823743[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/T823744[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D823741[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803425[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808429[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808033[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808034[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D807589[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808032[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/C805993[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/M814068[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/N815026[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/N823740[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/N814798[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B823739[0m
+[36m2018-04-23 21:58:41 [debug] Success process page http://www.macklin.cn/category/640 in 0.337 s[0m
+2018-04-23 21:58:41 [info] Spider running in 0d 0h 0m 8s
+2018-04-23 21:58:41 [info] Find pages: 496 
+2018-04-23 21:58:41 [info] Waiting for collect pages: 479 
+2018-04-23 21:58:41 [info] Collected pages: 17 
+[36m2018-04-23 21:58:41 [debug] Success download page http://www.macklin.cn/category/205 in 0.505 s[0m
+[36m2018-04-23 21:58:41 [debug] Find list page: http://www.macklin.cn/category/205/2[0m
+[36m2018-04-23 21:58:41 [debug] Find list page: http://www.macklin.cn/category/205/3[0m
+[36m2018-04-23 21:58:41 [debug] Find list page: http://www.macklin.cn/category/205/40[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/S827649[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808159[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803588[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D807957[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808162[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D823193[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/R803583[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803603[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B804592[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808160[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/C804368[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803569[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B805954[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/D808161[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/B803606[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/R854263[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/R854260[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/R854262[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/R854269[0m
+[36m2018-04-23 21:58:41 [debug] Find content page: http://www.macklin.cn/products/R854255[0m
+[36m2018-04-23 21:58:41 [debug] Success process page http://www.macklin.cn/category/205 in 0.543 s[0m
+2018-04-23 21:58:41 [info] Spider running in 0d 0h 0m 8s
+2018-04-23 21:58:41 [info] Find pages: 519 
+2018-04-23 21:58:41 [info] Waiting for collect pages: 501 
+2018-04-23 21:58:41 [info] Collected pages: 18 
+[36m2018-04-23 21:58:42 [debug] Success download page http://www.macklin.cn/category/759 in 0.327 s[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854327[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854008[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854006[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/S854011[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/S854007[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/S854003[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854013[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854009[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/S854010[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854014[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854012[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/N854005[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/N854004[0m
+[36m2018-04-23 21:58:42 [debug] Success process page http://www.macklin.cn/category/759 in 0.358 s[0m
+2018-04-23 21:58:42 [info] Spider running in 0d 0h 0m 9s
+2018-04-23 21:58:42 [info] Find pages: 532 
+2018-04-23 21:58:42 [info] Waiting for collect pages: 513 
+2018-04-23 21:58:42 [info] Collected pages: 19 
+[36m2018-04-23 21:58:42 [debug] Success download page http://www.macklin.cn/category/206 in 0.408 s[0m
+[36m2018-04-23 21:58:42 [debug] Find list page: http://www.macklin.cn/category/206/2[0m
+[36m2018-04-23 21:58:42 [debug] Find list page: http://www.macklin.cn/category/206/3[0m
+[36m2018-04-23 21:58:42 [debug] Find list page: http://www.macklin.cn/category/206/27[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R853903[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R853904[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854400[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854398[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854276[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854406[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854259[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854402[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854397[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854404[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854272[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854274[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854265[0m
+[36m2018-04-23 21:58:42 [debug] Find content page: http://www.macklin.cn/products/R854275[0m
+[36m2018-04-23 21:58:42 [debug] Success process page http://www.macklin.cn/category/206 in 0.431 s[0m
+2018-04-23 21:58:42 [info] Spider running in 0d 0h 0m 9s
+2018-04-23 21:58:42 [info] Find pages: 549 
+2018-04-23 21:58:42 [info] Waiting for collect pages: 529 
+2018-04-23 21:58:42 [info] Collected pages: 20 
+[36m2018-04-23 21:58:42 [debug] Success download page http://www.macklin.cn/category/207 in 0.27 s[0m
+[36m2018-04-23 21:58:43 [debug] Find list page: http://www.macklin.cn/category/207/2[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/C804367[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853929[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853930[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/S853931[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/D850355[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853927[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853937[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853941[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853939[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853926[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853935[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853933[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853928[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853938[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/S853932[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/S853940[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/S853936[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/S853934[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R802067[0m
+[36m2018-04-23 21:58:43 [debug] Success process page http://www.macklin.cn/category/207 in 0.304 s[0m
+2018-04-23 21:58:43 [info] Spider running in 0d 0h 0m 10s
+2018-04-23 21:58:43 [info] Find pages: 569 
+2018-04-23 21:58:43 [info] Waiting for collect pages: 548 
+2018-04-23 21:58:43 [info] Collected pages: 21 
+[36m2018-04-23 21:58:43 [debug] Success download page http://www.macklin.cn/category/208 in 0.248 s[0m
+[36m2018-04-23 21:58:43 [debug] Find list page: http://www.macklin.cn/category/208/2[0m
+[36m2018-04-23 21:58:43 [debug] Find list page: http://www.macklin.cn/category/208/3[0m
+[36m2018-04-23 21:58:43 [debug] Find list page: http://www.macklin.cn/category/208/12[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R808180[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/S808181[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R828523[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R828515[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853945[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853955[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R803595[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/R853942[0m
+[36m2018-04-23 21:58:43 [debug] Success process page http://www.macklin.cn/category/208 in 0.268 s[0m
+2018-04-23 21:58:43 [info] Spider running in 0d 0h 0m 10s
+2018-04-23 21:58:43 [info] Find pages: 580 
+2018-04-23 21:58:43 [info] Waiting for collect pages: 558 
+2018-04-23 21:58:43 [info] Collected pages: 22 
+[36m2018-04-23 21:58:43 [debug] Success download page http://www.macklin.cn/category/209 in 0.341 s[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/L812630[0m
+[36m2018-04-23 21:58:43 [debug] Find content page: http://www.macklin.cn/products/D823194[0m
+[36m2018-04-23 21:58:43 [debug] Success process page http://www.macklin.cn/category/209 in 0.371 s[0m
+2018-04-23 21:58:43 [info] Spider running in 0d 0h 0m 10s
+2018-04-23 21:58:43 [info] Find pages: 582 
+2018-04-23 21:58:43 [info] Waiting for collect pages: 559 
+2018-04-23 21:58:43 [info] Collected pages: 23 
+[36m2018-04-23 21:58:44 [debug] Success download page http://www.macklin.cn/category/210 in 0.475 s[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/210/2[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/210/3[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/210/1384[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/E808735[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/E808737[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/E809174[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/M813034[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/D824411[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/A801295[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/A801296[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/T820014[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/P816288[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/T818767[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/T818768[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/I811925[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/E809056[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/B802835[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/H811064[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/H811068[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/S835850[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/Z821459[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/H811367[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/M813895[0m
+[36m2018-04-23 21:58:44 [debug] Success process page http://www.macklin.cn/category/210 in 0.508 s[0m
+2018-04-23 21:58:44 [info] Spider running in 0d 0h 0m 11s
+2018-04-23 21:58:44 [info] Find pages: 605 
+2018-04-23 21:58:44 [info] Waiting for collect pages: 581 
+2018-04-23 21:58:44 [info] Collected pages: 24 
+[36m2018-04-23 21:58:44 [debug] Success download page http://www.macklin.cn/category/622 in 0.21 s[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/215[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/216[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/217[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/218[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/219[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/220[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/221[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/222[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/223[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/224[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/225[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/226[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/227[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/228[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/229[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/230[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/231[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/232[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/233[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/234[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/235[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/236[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/237[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/238[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/239[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/240[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/241[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/242[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/243[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/244[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/245[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/246[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/247[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/248[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/249[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/250[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/251[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/252[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/253[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/254[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/255[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/256[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/257[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/258[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/259[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/260[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/261[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/262[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/263[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/264[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/265[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/266[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/267[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/268[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/269[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/270[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/271[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/272[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/273[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/274[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/275[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/276[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/277[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/278[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/279[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/280[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/281[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/282[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/622/2[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/622/3[0m
+[36m2018-04-23 21:58:44 [debug] Find list page: http://www.macklin.cn/category/622/114[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/C804136[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/C804716[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/F809609[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/C804700[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/A800245[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/M813105[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/T818889[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/I809489[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/A801014[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/S817361[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/S817981[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/B802117[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/C805231[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/P816004[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/L812498[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/C804693[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/C804741[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/S817591[0m
+[36m2018-04-23 21:58:44 [debug] Find content page: http://www.macklin.cn/products/M813603[0m
+[36m2018-04-23 21:58:44 [debug] Success process page http://www.macklin.cn/category/622 in 0.246 s[0m
+2018-04-23 21:58:44 [info] Spider running in 0d 0h 0m 11s
+2018-04-23 21:58:44 [info] Find pages: 695 
+2018-04-23 21:58:44 [info] Waiting for collect pages: 670 
+2018-04-23 21:58:44 [info] Collected pages: 25 
+[36m2018-04-23 21:58:44 [debug] Success download page http://www.macklin.cn/category/610 in 0.157 s[0m
+[36m2018-04-23 21:58:44 [debug] Success process page http://www.macklin.cn/category/610 in 0.183 s[0m
+2018-04-23 21:58:44 [info] Spider running in 0d 0h 0m 11s
+2018-04-23 21:58:44 [info] Find pages: 695 
+2018-04-23 21:58:44 [info] Waiting for collect pages: 669 
+2018-04-23 21:58:44 [info] Collected pages: 26 
+[36m2018-04-23 21:58:45 [debug] Success download page http://www.macklin.cn/category/211 in 0.467 s[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/611[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/754[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/755[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/213[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/558[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/530[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/533[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/535[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/536[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/537[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/550[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/552[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/554[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/555[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/548[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/506[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/629[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/670[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/671[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/623[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/717[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/720[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/718[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/723[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/726[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/751[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/752[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/753[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/756[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/750[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/211/2[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/211/3[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/211/373[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/B802125[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/A801139[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/M812728[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/D806895[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/Q817158[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/I811605[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/B802380[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/M813015[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816292[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/C805443[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/E809360[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/B803956[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816289[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/H825525[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/A827138[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/A827359[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/C827358[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/H826134[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/H826610[0m
+[36m2018-04-23 21:58:45 [debug] Success process page http://www.macklin.cn/category/211 in 0.509 s[0m
+2018-04-23 21:58:45 [info] Spider running in 0d 0h 0m 12s
+2018-04-23 21:58:45 [info] Find pages: 747 
+2018-04-23 21:58:45 [info] Waiting for collect pages: 720 
+2018-04-23 21:58:45 [info] Collected pages: 27 
+[36m2018-04-23 21:58:45 [debug] Success download page http://www.macklin.cn/category/214 in 0.332 s[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816011[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S818448[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/L812672[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816727[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816729[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816094[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/P816093[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/M822553[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/D822552[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S822246[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/R817355[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/D850358[0m
+[36m2018-04-23 21:58:45 [debug] Success process page http://www.macklin.cn/category/214 in 0.352 s[0m
+2018-04-23 21:58:45 [info] Spider running in 0d 0h 0m 12s
+2018-04-23 21:58:45 [info] Find pages: 759 
+2018-04-23 21:58:45 [info] Waiting for collect pages: 731 
+2018-04-23 21:58:45 [info] Collected pages: 28 
+[36m2018-04-23 21:58:45 [debug] Success download page http://www.macklin.cn/category/540 in 0.306 s[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/540/2[0m
+[36m2018-04-23 21:58:45 [debug] Find list page: http://www.macklin.cn/category/540/3[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S818014[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/C804308[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S817968[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/M813099[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/A801005[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/Z820775[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/M813703[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/C805317[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S818114[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/A800845[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S817971[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/C842084[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/M849356[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/F840877[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/F840881[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/H849366[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/S836065[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/C849021[0m
+[36m2018-04-23 21:58:45 [debug] Find content page: http://www.macklin.cn/products/A823289[0m
+[36m2018-04-23 21:58:45 [debug] Success process page http://www.macklin.cn/category/540 in 0.327 s[0m
+2018-04-23 21:58:45 [info] Spider running in 0d 0h 0m 12s
+2018-04-23 21:58:45 [info] Find pages: 780 
+2018-04-23 21:58:45 [info] Waiting for collect pages: 751 
+2018-04-23 21:58:45 [info] Collected pages: 29 
+[36m2018-04-23 21:58:46 [debug] Success download page http://www.macklin.cn/category/508 in 0.224 s[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/730[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/758[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/508/2[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/508/3[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/508/102[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H810896[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N814568[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N814708[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800455[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N807430[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/D807425[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N806871[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N806323[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N806304[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/I811685[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/T819298[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/E809072[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/D807383[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/D807526[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H811360[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/B802184[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/P816001[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N800470[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800475[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/T819303[0m
+[36m2018-04-23 21:58:46 [debug] Success process page http://www.macklin.cn/category/508 in 0.257 s[0m
+2018-04-23 21:58:46 [info] Spider running in 0d 0h 0m 13s
+2018-04-23 21:58:46 [info] Find pages: 805 
+2018-04-23 21:58:46 [info] Waiting for collect pages: 775 
+2018-04-23 21:58:46 [info] Collected pages: 30 
+[36m2018-04-23 21:58:46 [debug] Success download page http://www.macklin.cn/category/518 in 0.26 s[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/518/2[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/518/3[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/518/22[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N814584[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800154[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801044[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800863[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801304[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800316[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800011[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800008[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801060[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800697[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801012[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800308[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800962[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/S821245[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801047[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801138[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801046[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A801035[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800646[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/A800864[0m
+[36m2018-04-23 21:58:46 [debug] Success process page http://www.macklin.cn/category/518 in 0.287 s[0m
+2018-04-23 21:58:46 [info] Spider running in 0d 0h 0m 13s
+2018-04-23 21:58:46 [info] Find pages: 828 
+2018-04-23 21:58:46 [info] Waiting for collect pages: 797 
+2018-04-23 21:58:46 [info] Collected pages: 31 
+[36m2018-04-23 21:58:46 [debug] Success download page http://www.macklin.cn/category/526 in 0.221 s[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/526/2[0m
+[36m2018-04-23 21:58:46 [debug] Find list page: http://www.macklin.cn/category/526/3[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/S818122[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/P815556[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H815595[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/T819497[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H811354[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H811364[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H810916[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/S817400[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/N814950[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/B802844[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/I811705[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/P816337[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H811366[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/B802850[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/P816339[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/P815693[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/H811357[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/R822176[0m
+[36m2018-04-23 21:58:46 [debug] Find content page: http://www.macklin.cn/products/F821884[0m
+[36m2018-04-23 21:58:46 [debug] Success process page http://www.macklin.cn/category/526 in 0.249 s[0m
+2018-04-23 21:58:46 [info] Spider running in 0d 0h 0m 13s
+2018-04-23 21:58:46 [info] Find pages: 849 
+2018-04-23 21:58:46 [info] Waiting for collect pages: 817 
+2018-04-23 21:58:46 [info] Collected pages: 32 
+[36m2018-04-23 21:58:47 [debug] Success download page http://www.macklin.cn/category/621 in 0.606 s[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/541[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/544[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/553[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/527[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/621/2[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/621/3[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/621/25[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D807835[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/E808937[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/F809657[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/F809410[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D807836[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/F809411[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/R849068[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/R817205[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/S817451[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/B832349[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/E830474[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/B827282[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/B824967[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/E831719[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D852724[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/S844568[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D852723[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/R817204[0m
+[36m2018-04-23 21:58:47 [debug] Success process page http://www.macklin.cn/category/621 in 0.644 s[0m
+2018-04-23 21:58:47 [info] Spider running in 0d 0h 0m 14s
+2018-04-23 21:58:47 [info] Find pages: 874 
+2018-04-23 21:58:47 [info] Waiting for collect pages: 841 
+2018-04-23 21:58:47 [info] Collected pages: 33 
+[36m2018-04-23 21:58:47 [debug] Success download page http://www.macklin.cn/category/624 in 0.436 s[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/529[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/543[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/517[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/519[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/523[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/524[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/525[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/630[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/624/2[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/624/3[0m
+[36m2018-04-23 21:58:47 [debug] Find list page: http://www.macklin.cn/category/624/508[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/A801090[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D806700[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D819156[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D812427[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D813148[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D812759[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/D818856[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/N807505[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/H811082[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/S817845[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/S817605[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/S818135[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/G810356[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/T818778[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/T834457[0m
+[36m2018-04-23 21:58:47 [debug] Find content page: http://www.macklin.cn/products/C804539[0m
+[36m2018-04-23 21:58:47 [debug] Success process page http://www.macklin.cn/category/624 in 0.469 s[0m
+2018-04-23 21:58:47 [info] Spider running in 0d 0h 0m 14s
+2018-04-23 21:58:47 [info] Find pages: 901 
+2018-04-23 21:58:47 [info] Waiting for collect pages: 867 
+2018-04-23 21:58:47 [info] Collected pages: 34 
+[36m2018-04-23 21:58:47 [debug] Success download page http://www.macklin.cn/category/625 in 0.212 s[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/520[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/522[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/528[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/625/2[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/625/3[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/625/44[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T804415[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/D807843[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/H810759[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T819308[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/H810921[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N814478[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/I811659[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/H810865[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/H811141[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/P816221[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/C804201[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/H811147[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/C804204[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/P817108[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/E825885[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/E825774[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N847611[0m
+[36m2018-04-23 21:58:48 [debug] Success process page http://www.macklin.cn/category/625 in 0.245 s[0m
+2018-04-23 21:58:48 [info] Spider running in 0d 0h 0m 15s
+2018-04-23 21:58:48 [info] Find pages: 924 
+2018-04-23 21:58:48 [info] Waiting for collect pages: 889 
+2018-04-23 21:58:48 [info] Collected pages: 35 
+[36m2018-04-23 21:58:48 [debug] Success download page http://www.macklin.cn/category/626 in 0.24 s[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/557[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/547[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/509[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/719[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/716[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/722[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/724[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/626/2[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/626/3[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/626/103[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T818551[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N814571[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T819634[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/D806734[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/C805445[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/M813098[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/M821302[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N814710[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/E808932[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/X820585[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/A800441[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/B802140[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/C804968[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N814718[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/H811112[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/C804640[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/B803131[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/P815401[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N814787[0m
+[36m2018-04-23 21:58:48 [debug] Success process page http://www.macklin.cn/category/626 in 0.281 s[0m
+2018-04-23 21:58:48 [info] Spider running in 0d 0h 0m 15s
+2018-04-23 21:58:48 [info] Find pages: 953 
+2018-04-23 21:58:48 [info] Waiting for collect pages: 917 
+2018-04-23 21:58:48 [info] Collected pages: 36 
+[36m2018-04-23 21:58:48 [debug] Success download page http://www.macklin.cn/category/675 in 0.194 s[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T837920[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T837952[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/C830031[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/N837936[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/D837906[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/L830182[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/G834658[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/B837921[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T837927[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/B837925[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/D837956[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/A849995[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/B837887[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/P837932[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/A837923[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/M837383[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/M837913[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/M832132[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/A829663[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/A837346[0m
+[36m2018-04-23 21:58:48 [debug] Success process page http://www.macklin.cn/category/675 in 0.225 s[0m
+2018-04-23 21:58:48 [info] Spider running in 0d 0h 0m 15s
+2018-04-23 21:58:48 [info] Find pages: 973 
+2018-04-23 21:58:48 [info] Waiting for collect pages: 936 
+2018-04-23 21:58:48 [info] Collected pages: 37 
+[36m2018-04-23 21:58:48 [debug] Success download page http://www.macklin.cn/category/627 in 0.218 s[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/551[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/507[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/627/2[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/627/3[0m
+[36m2018-04-23 21:58:48 [debug] Find list page: http://www.macklin.cn/category/627/71[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/E809061[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/M813904[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/P815581[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/B802727[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T819271[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/E801077[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/E808764[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/D807524[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/O815246[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/O815157[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T819480[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T819476[0m
+[36m2018-04-23 21:58:48 [debug] Find content page: http://www.macklin.cn/products/T819013[0m
+[36m2018-04-23 21:58:48 [debug] Success process page http://www.macklin.cn/category/627 in 0.251 s[0m
+2018-04-23 21:58:48 [info] Spider running in 0d 0h 0m 15s
+2018-04-23 21:58:48 [info] Find pages: 991 
+2018-04-23 21:58:48 [info] Waiting for collect pages: 953 
+2018-04-23 21:58:48 [info] Collected pages: 38 
