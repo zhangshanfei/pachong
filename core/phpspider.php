@@ -1876,7 +1876,8 @@ class phpspider
                     }
                     else 
                     {
-                        $fields[$conf['name']] = $values[0];
+                        // $fields[$conf['name']] = $values[0];		zsf修改
+                        $fields[$conf['name']] = implode(' | ', $values);
                     }
                 }
                 else 
