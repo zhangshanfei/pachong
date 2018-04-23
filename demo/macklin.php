@@ -19,6 +19,8 @@ $configs = array(
     ),
     'scan_urls' => array(
         'http://www.macklin.cn/products',
+    	'http://www.macklin.cn/products/M812869',
+    	'http://www.macklin.cn/products/A823020'
     ),
     'list_url_regexes' => array(
         "http://www.macklin.cn/category/\d+"
@@ -26,16 +28,16 @@ $configs = array(
     'content_url_regexes' => array(
         "http://www.macklin.cn/products/[A-Z]\d+",
     ),
-    'max_try' => 0,
-//     'export' => array(
-//         'type' => 'csv',
-//         'file' => '../data/macklin.csv',
-//     ),
+    'max_try' => 2,
     'export' => array(
-        'type'  => 'sql',
-        'file'  => '../data/macklin.sql',
-        'table' => 'content',
+        'type' => 'csv',
+        'file' => '../data/macklin.csv',
     ),
+//     'export' => array(
+//         'type'  => 'sql',
+//         'file'  => '../data/macklin.sql',
+//         'table' => 'content',
+//     ),
     //'export' => array(
         //'type' => 'db', 
         //'table' => 'content',
