@@ -567,7 +567,7 @@ class util
             $v = str_replace("&#10;",'', $v);	// zsf 去掉LF 换行
             $data[$k] = $v;
         }
-        return implode(",", $data);
+        return mb_convert_encoding(implode(",", $data), "UTF-8");
     }
 
     /**

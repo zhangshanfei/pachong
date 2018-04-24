@@ -542,6 +542,7 @@ class requests
     /**
      * post 请求
      * $fields 有三种类型:1、数组；2、http query；3、json
+     * 
      * 1、array('name'=>'yangzetao') 
      * 2、http_build_query(array('name'=>'yangzetao')) 
      * 3、json_encode(array('name'=>'yangzetao'))
@@ -554,7 +555,7 @@ class requests
      * @param mixed $proxies 
      * @static
      * @access public
-     * @return void
+     * @return string $text	返回页面返回的内容，如json
      */
     public static function post($url, $fields = array(), $files = array(), $allow_redirects = true, $cert = NULL)
     {

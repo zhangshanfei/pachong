@@ -83,46 +83,46 @@ $configs = array(
             'selector' => "//div[contains(@class,'product-detail')]//div[contains(@class,'product-general')]//span",
             'required' => false,
         ),
-//         array(
-//             'name' => "成本价",
-//             'selector' => "",	// 非抓取字段，留空值
-//             'required' => false,
-//         ),
+        array(
+            'name' => "成本价",
+            'selector' => "",	// 非抓取字段，留空值
+            'required' => false,
+        ),
         array(
             'name' => "规格值",
             'selector' => "//div[contains(@class,'product-detail')]//div[contains(@class,'shopping')]/table[1]/tbody/tr/td[2]",
             'required' => false,
-//         	'repeated' => true,
+        	'repeated' => true,
         ),
         array(
             'name' => "商品价格",
             'selector' => "//div[contains(@class,'product-detail')]//div[contains(@class,'shopping')]/table[1]/tbody/tr/td[5]",
             'required' => false,
-//         	'repeated' => true
+        	'repeated' => true
         ),
         array(
             'name' => "市场价",
             'selector' => "//div[contains(@class,'product-detail')]//div[contains(@class,'shopping')]/table[1]/tbody/tr/td[4]/del",
             'required' => false,
-//         	'repeated' => true
+        	'repeated' => true
         ),
         array(
             'name' => "商品库存",
             'selector' => "//div[contains(@class,'product-detail')]//div[contains(@class,'shopping')]/table[1]/tbody[1]/tr/td[3]",
             'required' => false,
-//         	'repeated' => true
+        	'repeated' => true
         ),
         array(
             'name' => "商品货号",
             'selector' => "//div[contains(@class,'product-detail')]//div[contains(@class,'shopping')]//table[1]//tbody[1]//tr//td[1]",
             'required' => false,
-//         	'repeated' => true
+        	'repeated' => true
         ),
-//         array(
-//             'name' => "品牌名",	//目标网站未定义该字段
-//             'selector' => "",
-//             'required' => false,
-//         ),
+        array(
+            'name' => "品牌名",	//目标网站未定义该字段
+            'selector' => "",
+            'required' => false,
+        ),
         array(
             'name' => "商品描述",
             'selector' => "//*[@id='intro']",
@@ -135,6 +135,19 @@ $configs = array(
 
 $spider = new phpspider($configs);
 
+$spider->on_extract_field = function($fieldname,$data,$page){
+	if(in_array($fieldname, array("规格值","商品价格","市场价","商品库存","商品货号")))
+	{
+		$data = implode(" | ", $data);
+	}
+	
+	return $data;
+};
+// $spider->on_extract_page = function($page,$fields){
+// 	$fields["品牌名"] = "";
+// 	$fields["成本价"] = "";
+// 	return $fields;
+// };
 
 $spider->start();
 
