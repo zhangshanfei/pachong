@@ -143,13 +143,17 @@ $spider = new phpspider($configs);
 $spider->on_extract_field = function($fieldname,$data,$page){
 	if(in_array($fieldname, array("规格值","市场价","商品货号")))
 	{
-		$result = implode(" | ", $data);
+		$data = implode(" | ", $data);
+	}
+	elseif(in_array($fieldname, array("商品热点","成本价","品牌名","商品库存")))
+	{
+		$data = " ";
 	}
 // 	if($fieldname =="商品描述")
 // 	{
 // 		$data = implode("", $data);
 // 	}
-	return $result;
+	return $data;
 };
 
 // 在一个网页的所有field抽取完成之后, 可能需要对field进一步处理,再保存数据
@@ -162,12 +166,11 @@ $spider->on_extract_page = function($page,$fields){
 		$price_json = $request->post('http://www.xiyashiji.com/member/getcuxiaoprice.html',array("count"=>"1","orderid"=>$orderid[$i]));
 		$price_arr = json_decode($price_json,true);
 		$price[] = $price_arr["price"];
-		$kucun[] = isset($price_arr["price"]) ? 99:0;
+		$kucun[] = empty($price_arr["price"]) ? "0":"99";
 	}
 	$fields["商品库存"] = implode(" | ", $kucun);
 	$fields["商品价格"] = implode(" | ", $price);
-	$fields["品牌名"] = "";
-	$fields["成本价"] = "";
+	
 	return $fields;
 };
 

@@ -1856,7 +1856,7 @@ class phpspider
                     break;
                 }
                 // 避免内容分页时attached_url拼接时候string + array了
-                $fields[$conf['name']] = '';
+                $fields[$conf['name']] = ' ';
                 //$fields[$conf['name']] = array();
             }
             else 
@@ -1907,10 +1907,10 @@ class phpspider
                 // 当一个field的内容被抽取到后进行的回调, 在此回调中可以对网页中抽取的内容作进一步处理
                 if ($this->on_extract_field) 
                 {
-                    $return = call_user_func($this->on_extract_field, $fieldname, $data, $page);
+                	$return = call_user_func($this->on_extract_field, $fieldname, $data, $page);
                     if (!isset($return))
                     {
-                        log::warn("on_extract_field return value can't be empty\n");
+                        log::warn($fieldname.": on_extract_field return value is empty\n");
                     }
                     else 
                     {

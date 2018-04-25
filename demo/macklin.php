@@ -140,7 +140,10 @@ $spider->on_extract_field = function($fieldname,$data,$page){
 	{
 		$data = implode(" | ", $data);
 	}
-	
+	elseif (in_array($fieldname, array("成本价","品牌名")))
+	{
+		$data = " ";
+	}
 	return $data;
 };
 // $spider->on_extract_page = function($page,$fields){
