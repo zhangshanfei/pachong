@@ -567,7 +567,9 @@ class util
             $v = str_replace("&#10;",'', $v);	// zsf 去掉LF 换行
             $data[$k] = $v;
         }
-        return mb_convert_encoding(implode(",", $data), "UTF-8");
+//         return mb_convert_encoding(implode(",", $data), "UTF-8");		本项目需要导出gbk编码（ANSI）的csv文件
+        return iconv("UTF-8","GBK//TRANSLIT",implode(",", $data));
+        
     }
 
     /**

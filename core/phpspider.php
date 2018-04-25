@@ -16,7 +16,6 @@
 namespace phpspider\core;
 
 require_once __DIR__ . '/constants.php';
-require_once __DIR__ . '/../vendor/autoload.php';
 
 use phpspider\core\requests;
 use phpspider\core\selector;

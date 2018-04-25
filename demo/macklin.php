@@ -4,8 +4,6 @@ require_once __DIR__ . '/../autoloader.php';
 use phpspider\core\phpspider;
 use phpspider\core\requests;
 
-/* Do NOT delete this comment */
-/* 不要删除这段注释 */
 
 $configs = array(
     'name' => 'macklin',
