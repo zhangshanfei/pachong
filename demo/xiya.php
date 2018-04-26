@@ -143,7 +143,7 @@ $spider->on_extract_field = function($fieldname,$data,$page){
 	{
 		$data = implode(" | ", $data);
 	}
-	elseif(in_array($fieldname, array("商品热点","成本价","品牌名","商品库存")))
+	elseif(in_array($fieldname, array("商品热点","成本价","商品库存")))
 	{
 		$data = " ";
 	}
@@ -168,7 +168,7 @@ $spider->on_extract_page = function($page,$fields){
 	}
 	$fields["商品库存"] = implode(" | ", $kucun);
 	$fields["商品价格"] = implode(" | ", $price);
-	
+	$fields["品牌名"] = "西亚";
 	return $fields;
 };
 

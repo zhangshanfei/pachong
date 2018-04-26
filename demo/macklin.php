@@ -134,13 +134,28 @@ $configs = array(
 $spider = new phpspider($configs);
 
 $spider->on_extract_field = function($fieldname,$data,$page){
-	if(in_array($fieldname, array("规格值","商品价格","市场价","商品库存","商品货号")))
+	if($fieldname == "商品名称")
+	{
+		$data = substr($data, 8);
+	}
+	elseif(in_array($fieldname, array("规格值","商品价格","市场价","商品货号")))
 	{
 		$data = implode(" | ", $data);
 	}
-	elseif (in_array($fieldname, array("成本价","品牌名")))
+	elseif ($fieldname=="商品库存")
+	{
+		foreach ($data as &$value){
+			$value = (trim($value)=="现货")? "99":"0";
+		}
+		unset($value);
+	}
+	elseif ($fieldname=="成本价")
 	{
 		$data = " ";
+	}
+	elseif ($fieldname=="品牌名")
+	{
+		$data = "麦克林";
 	}
 	return $data;
 };
