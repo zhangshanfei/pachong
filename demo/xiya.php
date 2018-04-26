@@ -129,28 +129,21 @@ $configs = array(
 
 
 $spider = new phpspider($configs);
-/*  on_fetch_url回调函数，在页面上通过正则表达式匹配到需要爬取的url后，在url加入队列前执行。
- * $spider->on_fetch_url = function($url,$phpspider){
-	if($phpspider->is_list_page($url) || $phpspider->is_content_page($url)){
-		$url = 'http://www.xiyashiji.com'.$url;
-	}
-	return $url;
-}; */
 
 // 爬取一个字段后执行
 $spider->on_extract_field = function($fieldname,$data,$page){
-	if(in_array($fieldname, array("规格值","市场价","商品货号")))
+	if($fieldname=="商品热点")
+	{
+		$data = "库存为零的请联系客服";	
+	}
+	elseif(in_array($fieldname, array("规格值","市场价","商品货号")))
 	{
 		$data = implode(" | ", $data);
 	}
-	elseif(in_array($fieldname, array("商品热点","成本价","商品库存")))
+	elseif(in_array($fieldname, array("成本价","商品库存")))
 	{
 		$data = " ";
 	}
-// 	if($fieldname =="商品描述")
-// 	{
-// 		$data = implode("", $data);
-// 	}
 	return $data;
 };
 

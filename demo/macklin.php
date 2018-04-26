@@ -17,7 +17,7 @@ $configs = array(
     ),
     'scan_urls' => array(
         'http://www.macklin.cn/products',
-    	'http://www.macklin.cn/products/M812869',
+    	'http://www.macklin.cn/products/A800842',
     	'http://www.macklin.cn/products/A823020'
     ),
     'list_url_regexes' => array(
@@ -138,16 +138,23 @@ $spider->on_extract_field = function($fieldname,$data,$page){
 	{
 		$data = substr($data, 8);
 	}
-	elseif(in_array($fieldname, array("规格值","商品价格","市场价","商品货号")))
+	elseif ($fieldname=="商品热点")
 	{
-		$data = implode(" | ", $data);
+		$data = $data."库存为零的请联系客服";
 	}
 	elseif ($fieldname=="商品库存")
 	{
-		foreach ($data as &$value){
-			$value = (trim($value)=="现货")? "99":"0";
+		if(is_array($data)){
+			foreach ($data as &$value)
+			{
+				$value = (trim($value)=="现货")? "99":"0";
+			}
+			unset($value);
+			$data = implode(" | ", $data);
 		}
-		unset($value);
+		else{
+			$data = (trim($data)=="现货" ? "99":"0");
+		}
 	}
 	elseif ($fieldname=="成本价")
 	{
@@ -157,13 +164,12 @@ $spider->on_extract_field = function($fieldname,$data,$page){
 	{
 		$data = "麦克林";
 	}
+	elseif(in_array($fieldname, array("规格值","商品价格","市场价","商品货号")))
+	{
+		$data = implode(" | ", $data);
+	}
 	return $data;
 };
-// $spider->on_extract_page = function($page,$fields){
-// 	$fields["品牌名"] = "";
-// 	$fields["成本价"] = "";
-// 	return $fields;
-// };
 
 $spider->start();
 
