@@ -5,9 +5,8 @@ use phpspider\core\phpspider;
 use phpspider\core\requests;
 
 
-
 $configs = array(
-    'name' => 'macklin',
+    'name' => 'mm131',
     'log_show' => false,
     'tasknum' => 1,
     'output_encoding' => 'utf-8',
